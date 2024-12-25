@@ -5,6 +5,7 @@ The project aims to analyze rich dataset provided by Coffee Quality Institute (C
 
 # Objective:
 1)	To find the factors that are influencing sensory attributes such as Aroma, Aftertaste, Flavor, Acidity, Body, Balance, Uniformity, Clean cup and Sweetness.
+
 Aroma: Refers to the scent or fragrance of the coffee.
 
 Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
