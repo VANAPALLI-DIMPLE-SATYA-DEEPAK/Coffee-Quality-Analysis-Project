@@ -36,12 +36,19 @@ The dataset used for the project has 207 rows and 31 columns which is in the sha
 Out of 31 columns 18 columns are numeric data and 13 columns are categorical data.
 
 # Methodology:
+
 1)	The dataset is loaded.
+
 2)	Transformation and manipulation of data-
+
 •	Understand the data
+
 •	Dealing with headers and column names
+
 •	Check column quality (valid, errors, empty, null values)
+
 •	Remove duplicates & replace values
+
 3)	For visualization Slicer, Card visuals, Donut chart, Scatter plot, clustered column chart, Stacked bar chart, Line chart and Decomposition Tree is used.
 
 # Insights & Recomendations:
