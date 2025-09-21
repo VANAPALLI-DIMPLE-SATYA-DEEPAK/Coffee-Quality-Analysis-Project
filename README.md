@@ -6,34 +6,34 @@ The project aims to analyze rich dataset provided by Coffee Quality Institute (C
 # Problem Statement / Objective:
 1)	To find the factors that are influencing sensory attributes such as Aroma, Aftertaste, Flavor, Acidity, Body, Balance, Uniformity, Clean cup and Sweetness.
 
-Aroma: Refers to the scent or fragrance of the coffee.
+  Aroma: Refers to the scent or fragrance of the coffee.
 
-Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
+  Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
 
-Aftertaste: Refers to the lingering taste that remains in the mouth after swallowing the coffee.
+  Aftertaste: Refers to the lingering taste that remains in the mouth after swallowing the coffee.
 
-Acidity: Acidity in coffee refers to the brightness or liveliness of the taste.
+  Acidity: Acidity in coffee refers to the brightness or liveliness of the taste.
 
-Body: The body of coffee refers to the thickness or viscosity of the coffee in the mouth.
+  Body: The body of coffee refers to the thickness or viscosity of the coffee in the mouth.
 
-Balance: Balance refers to how well the different flavor components of the coffee work together.
+  Balance: Balance refers to how well the different flavor components of the coffee work together.
 
-Uniformity: Uniformity refers to the consistency of the coffee from cup to cup.
+  Uniformity: Uniformity refers to the consistency of the coffee from cup to cup.
 
-Clean Cup: A clean cup refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.
+  Clean Cup: A clean cup refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.
 
-Sweetness: It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.
+  Sweetness: It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.
 
 3)	Is there a correlation between processing methods, origin regions, and coffee quality scores?
 4)	Can we identify any trends or patterns in defect occurrences and their impact on overall coffee quality?
 5)	How do different variables interact to influence the Total Cup Points, which represent an overall
 
 # Tools Used:
-The project is build using Microsoft Power Bi, the dataset is in .csv format.
+  The project is build using Microsoft Power Bi, the dataset is in .csv format.
 
 # Dataset:
-The dataset used for the project has 207 rows and 31 columns which is in the shape of (207,31).
-Out of 31 columns 18 columns are numeric data and 13 columns are categorical data.
+  The dataset used for the project has 207 rows and 31 columns which is in the shape of (207,31).
+  Out of 31 columns 18 columns are numeric data and 13 columns are categorical data.
 
 # Methodology:
 
