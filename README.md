@@ -3,7 +3,7 @@
 # Business Problem:
 The project aims to analyze rich dataset provided by Coffee Quality Institute (CQI) to gain insights into the factors influencing coffee quality. This information is helpful for various stakeholders in coffee industry, including growers, processors, roasters and retailers.
 
-# Objective:
+# Problem Statement / Objective:
 1)	To find the factors that are influencing sensory attributes such as Aroma, Aftertaste, Flavor, Acidity, Body, Balance, Uniformity, Clean cup and Sweetness.
 
 Aroma: Refers to the scent or fragrance of the coffee.
